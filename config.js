@@ -8,7 +8,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "MEGALODON~MD~NRoxmAoT#3uM0lmi9EP4MZo8KU6gXL-MP0XETbEsMdj49Iqi0xK4",
+SESSION_ID: process.env.SESSION_ID || "MEGALODON~MD~VNZTFLzL#6NULRG93ko9kuL1yrUh8ozWdA7EeKzG49VteR00rYOo",
 // add your Session Id 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 // make true or false status auto seen
@@ -46,7 +46,7 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 // choose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links without removing member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "18296682137",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "18296026930",
 // add your bot owner number
 OWNER_NAME: process.env.OWNER_NAME || "ᴅʏʙʏ ᴛᴇᴄʜ",
 // add bot owner name
@@ -80,7 +80,7 @@ AUTO_TYPING: process.env.AUTO_TYPING || "false",
 // show typing status   
 READ_CMD: process.env.READ_CMD || "false",
 // mark commands as read 
-DEV: process.env.DEV || "18296682137",
+DEV: process.env.DEV || "18296026930",
 // your whatsapp number        
 ANTI_VV: process.env.ANTI_VV || "true",
 // anti view once 
